@@ -19,11 +19,10 @@ Building robust and scalable applications with a focus on modern web technologie
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[သင့်_USERNAME_ထည့်ရန်]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[သင့်_USERNAME_ထည့်ရန်]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[chitsunyein242]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[chitsunyein242]&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: [your-email@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 📧 Email: [chitsunyein242@gmail.com]

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [သင့်နာမည်]
+# 👋 Hi, I'm Chit Hsu Nyein
 
 ### 🚀 Full-stack Web Developer 
 Building robust and scalable applications with a focus on modern web technologies.

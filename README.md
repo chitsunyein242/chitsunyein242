@@ -18,3 +18,12 @@ Building robust and scalable applications with a focus on modern web technologie
 
 **GitHub Status
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitsunyein242&show_icons=true&theme=tokyonight)
+
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chitsunyein242&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitsunyein242&layout=compact&theme=tokyonight" alt="Languages" width="48%" />
+</p>
+
+---

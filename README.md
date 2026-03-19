@@ -16,9 +16,9 @@ Building robust and scalable applications with a focus on modern web technologie
 - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-<p align="center display="flex" gap="2">
+<div align="center display="flex" gap="2">
   <img src="https://github-readme-stats.vercel.app/api?username=chitsunyein242&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitsunyein242&layout=compact&theme=tokyonight" alt="Languages" width="48%" />
-</p>
+</div>
 
 ---

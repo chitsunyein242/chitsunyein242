@@ -15,3 +15,6 @@ Building robust and scalable applications with a focus on modern web technologie
 **Backend & Database**
 - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+**GitHub Status
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitsunyein242&show_icons=true&theme=tokyonight)

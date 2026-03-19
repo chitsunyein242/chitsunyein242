@@ -3,6 +3,18 @@
 ### 🚀 Full-stack Web Developer 
 Building robust and scalable applications with a focus on modern web technologies.
 
+<p align="left">
+  <a href="https://myportfolio-pi-tan-43.vercel.app/"><img src="https://img.shields.io/badge/Chit_Hsu_Nyein-Portfolio-%23FF5733?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
+
+---
+
+### 🖥️ A Little About Me
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9459FF&center=false&vCenter=false&random=true&width=435&lines=Building+modern+web+apps;Full-stack+JS%2FTS;Let's+collaborate!" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills
